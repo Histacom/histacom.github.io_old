@@ -7,10 +7,15 @@ body {
 a {
   text-decoration: underline;
   color: #000000;
+  background-image: url("images/pressed.gif");
 }
 a:hover {
   text-decoration: underline;
   color: #737373;
+}
+
+a:active {
+  background-image: url("images/not_pressed.gif");
 }
 
 $scale: 0.7;

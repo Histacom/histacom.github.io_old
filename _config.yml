@@ -1,11 +1,9 @@
-title: "UberGM"
+title: "Histacom"
 description: none
 baseurl: ""
 url: ""
 
-email: email@email.com
-twitter_username: tweeter
-github_username: gethub
+github_username: UberGM
 
 markdown: kramdown
 includeFooter: true
