@@ -1,11 +1,13 @@
 <header class="site-header">
   <div class="wrapper">
     <h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-    <p>blah</p>
+    <p>The game</p>
     <nav class="site-nav">
       {% for page in site.pages %}
         {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="page-link" href="http://histacom.deltamuffin.ml">Forum</a>
+          <a class="page-link" href="https://git.io/histacom">Github</a>
         {% endif %}
       {% endfor %}
     </nav>
