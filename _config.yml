@@ -3,7 +3,7 @@ description: none
 baseurl: ""
 url: ""
 
-github_username: UberGM
+github_username: phillips1012
 
 markdown: kramdown
 includeFooter: true
