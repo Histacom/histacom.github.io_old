@@ -3,7 +3,7 @@
 	"versions": [
 		{
 			"version": "1.8.5",
-			"file": "releases/1.8.5.exe"
+			"location": "releases/1.8.5.exe"
 		}
 	]
 }
