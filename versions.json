@@ -1,6 +1,9 @@
-[
-	{
-		"version": "1.8.5",
-		"file": "releases/1.8.5.exe"
-	}
-]
+{
+	"baseURL": "http://histacom.github.io/",
+	"versions": [
+		{
+			"version": "1.8.5",
+			"file": "releases/1.8.5.exe"
+		}
+	]
+}
