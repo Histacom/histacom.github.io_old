@@ -12,9 +12,11 @@ To join the IRC channel, it is <b><i>REQUIRED</i></b> you are authenticated with
 Rules
 ====
 Currently our rules are:
-* No spreading of false rumours surrounding Histacom and/or ShiftOS
-* Be nice and courteous to your fellow users
-* No abuse of others
-* Don't spam the channel or the bots provided
+<ul>
+    <li>No spreading of false rumours surrounding Histacom and/or ShiftOS</li>
+    <li>Be nice and courteous to your fellow users</li>
+    <li>No abuse of others</li>
+    <li>Don't spam the channel or the bots provided</li>
+</ul>
 
 Failure to comply with the rules will result in a kick (1 strike) then a ban (2 strikes), anyone caught ban-evading will be instantly banned.
